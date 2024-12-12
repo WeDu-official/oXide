@@ -3,7 +3,7 @@
 fast,lightweight python IDE
 
 
-~update log after the 1.0 update~:
+update log after the 1.0 update:
 
 
 -THE new W1.0(WeDu software base environment):
